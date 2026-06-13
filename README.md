@@ -22,5 +22,5 @@ Welcome to my GitHub profile!
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jerry1921&theme=radical&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerry1921&theme=react-dark)
 Thanks for visiting my profile!
