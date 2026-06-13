@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - Goal: Become a skilled Software Engineer
 - 📍 From: Bangladesh
 
-## 🛠️ Skills
+## Skills
 - Programming: Java, Python, MySQL, PostgreSQL
 - Web: HTML, CSS, JavaScript, SPringboot
 - Tools: Git, GitHub, VS Code, Postman, Docker
@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry1921&show_icons=true)
 
-## 📫 Contact Me
+## Contact Me
 - Email: jerryjeriomio19@gmail.com
 - LinkedIn: www.linkedin.com/in/jerry-joydhor19
 
