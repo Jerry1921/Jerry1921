@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Jerry
 
-<!--
-**Jerry1921/Jerry1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m a Computer Science student | Java Developer | Researcher
+- 🌱 I’m currently learning Data Structures, Algorithms, and Web Development
+- 🎯 Goal: Become a skilled Software Engineer
+- 📍 From: Bangladesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Java, Python, C++
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry1921&show_icons=true)
+
+## 📫 Contact Me
+- Email: jerryjeriomio19@gmail.com
+- LinkedIn: www.linkedin.com/in/jerry-joydhor19
+
+---
+
+Thanks for visiting my profile!
