@@ -21,5 +21,6 @@ Welcome to my GitHub profile!
 - LinkedIn: www.linkedin.com/in/jerry-joydhor19
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=Jerry1921&theme=radical&hide_border=true)
 
 Thanks for visiting my profile!
