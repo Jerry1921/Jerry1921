@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jerry
+# Hi, I'm Jerry
 
 Welcome to my GitHub profile!
 
