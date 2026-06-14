@@ -13,14 +13,15 @@ Welcome to my GitHub profile!
 - Web: HTML, CSS, JavaScript, SPringboot
 - Tools: Git, GitHub, VS Code, Postman, Docker
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry1921&show_icons=true)
-
-## Contact Me
-- Email: jerryjeriomio19@gmail.com
-- LinkedIn: www.linkedin.com/in/jerry-joydhor19
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jerry1921&theme=radical&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerry1921&theme=react-dark)
+
+## Contact Me
+- Email: jerryjeriomio19@gmail.com
+- LinkedIn: www.linkedin.com/in/jerry-joydhor19
+---
 Thanks for visiting my profile!
